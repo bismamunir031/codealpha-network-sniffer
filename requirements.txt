@@ -1,0 +1,2 @@
+# Runtime dependency (the only one)
+scapy>=2.5.0
